@@ -5,4 +5,7 @@
 
 header{
     border:solid 2px white;
+    padding: 20px;
+    font-size: 32px;
+    color: rgb white;
 }
