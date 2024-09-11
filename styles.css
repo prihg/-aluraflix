@@ -7,7 +7,7 @@ body{
 header{
     border-bottom:solid 2px white;
     padding: 20px;
-    font-size: 32px;
+    font-size: 50px;
     color: rgb white;
 }
 
@@ -24,9 +24,19 @@ section{
 }
 
 h1{
-    font-size: 40px;
+    font-size: 30px;
 }
 
 p{
-     font-size: 20px;
+     font-size: 30px;
 }
+
+img {
+    height: 500px;
+  }
+  .categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+  }
+  
